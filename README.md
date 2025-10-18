@@ -3,7 +3,7 @@
 ![fitness bunner](https://github.com/Dorice97/Health-Fitness-Analysis/blob/master/fitness_bunner%20.png)  
 
 ## Problem Statement
- Most adults aspire to loose weight and one question almost everyone asks themselves is; "What can i do to burn more calories?" For some, starting off the fitness journey becomes a challenge
+ Most adults aspire to lose weight and one question almost everyone asks themselves is; "What can i do to burn more calories?" For some, starting off the fitness journey becomes a challenge
  due to fear arising from demographic , health status and lifestyle differences.  
  This study is focused on exploring how demographic, health condition and other physical activity patterns contribute to number of calories burned.
  The goal is to uncover meaningful patterns that can inform personalized fitness recommandations and improve health outcomes.  
@@ -60,10 +60,15 @@ A plot on Calories burned vs age group by gender displayed:
 
 ## Conclusion
 From the study it is was concluded that;
-1. All physical activities contribute to calorie burn however engaging in activities like HIIT, running and cycling can burn relatively high amount of calories compared to less intensive activities like yoga.
+1. All physical activities contribute to calorie burn however engaging in activities like HIIT, running and cycling can burn relatively high levels of calories compared to less intensive activities like yoga.
 2. People with high body mass index(overweight and obese) can burn more calories even with less intensive exercises
-3. Lifestyle behaviors like smocking and health do not determine amount of calories burned, whether asmatic or a smocker once tends to burn same amount of calories when during exercise.
-4. Age and gender does not determine amount of calories burned however , activity type and body mass index does.
+3. Lifestyle behaviors like smocking do not determine number of calories burned.
+4. Health conditions like hypertension affect calories burned due to medication effect, this can limit general fitness of individuals.
+5. Age and gender does not determine number of calories burned however; activity type and body mass index does.
+6. Consistent exercise yields high calorie burn improving fitness level
+   
+<img width="4686" height="542" alt="image" src="https://github.com/user-attachments/assets/6b8525ac-6792-428c-b43f-d0e2192e1cb1" />
+
  
  
  
